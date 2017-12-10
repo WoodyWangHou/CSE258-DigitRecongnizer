@@ -1,5 +1,5 @@
-# CSE258-DigitRecongnizer
-kNN method to recognize digits
+# Digit Recongnizer
+kNN classifier for handwritten digit recognition.
 
 * The main file resides in Assignment 2.py
 * Training data can be extracted from ```train.csv```
